@@ -1,0 +1,5 @@
+before_script: ./start-consul.sh
+language: java
+jdk:
+  - oraclejdk8
+  - oraclejdk7
